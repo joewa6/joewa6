@@ -1,12 +1,29 @@
-- 👋 Hi, I’m Joe Wallace
+👋 Hi, I’m Joe Wallace — computational chemistry / molecular screening pipeline engineer.
 
-- 👀 I’m interested in data science and ML.
+I design and build reproducible molecular screening engines that combine cheminformatics, molecular simulation, and machine learning to produce decision-grade binding and aggregation data.
 
-- ✏️ I’m currently learning html basics in order to create a basic personal website (https://joewa6.github.io/Webpage/)
+My work focuses on:
+• automated molecular system generation
+• large-scale ligand screening on HPC clusters
+• physics-grounded binding / aggregation metrics
+• uncertainty-aware ranking pipelines
+• end-to-end reproducible research infrastructure
 
-- 🌱 I’m currently working on a project in which I have accessed a dataset of ~300k small molecules and their binding affinities for the protein Tyrosyl-DNA phosphodiesterase 1 (https://www.ebi.ac.uk/chembl/target_report_card/CHEMBL1075138/). I am using this as a mini project to gain further experience in machine learning, with an emphasis on drug design. 
-- At this stage I am aiming to dock the small molecules to the protein target using LeDock then use ProLif to analyse the specific ligand-protein molecular interactions
+Current core project:
+→ Molecular Screening Engine (MSE)
+An automated platform for screening and ranking small molecules against nanoplastic and biomolecular targets using AMBER, PLUMED, RDKit, Packmol, and Python-based analysis pipelines.
+Outputs: ranked binding tables, free-energy metrics, aggregation propensities, and decision-ready reports.
 
-- 📫 How to reach me: joewallace2995@gmail.com
+Research domains:
+• nanoplastics aggregation & contaminant capture
+• physics-informed molecular ML
+• high-throughput screening automation
+• free-energy & enhanced sampling methods
+• cheminformatics pipelines
 
+Currently:
+Postdoctoral researcher at IIT Genova (computational nanomaterials & molecular screening)
 
+Contact:
+📫 joewallace2995@gmail.com  
+🌐 https://joewa6.github.io/Webpage/
