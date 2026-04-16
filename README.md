@@ -6,4 +6,4 @@ Computational chemist building reproducible ligand-screening and molecular analy
 - Cheminformatics and benchmark analysis
 - Reproducible Python tooling for hit triage
 
-Portfolio: https://joewa6.github.io/Webpage/
+Portfolio: https://joewa6.github.io/
