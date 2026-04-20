@@ -19,5 +19,6 @@ Portfolio: https://joewa6.github.io/
 
 LinkedIn: https://www.linkedin.com/in/joseph--wallace/
 
-Contact: joewallace2995@gmail
+Contact: joewallace2995@gmail.com
+
 Academic Contact: joseph.wallace@iit.it 
