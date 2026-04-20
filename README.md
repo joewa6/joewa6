@@ -16,5 +16,7 @@ I build reproducible computational workflows for physically grounded modelling, 
 Postdoctoral researcher at the Istituto Italiano di Tecnologia, working across molecular simulation, data analysis, and experiment-linked scientific computing.
 
 Portfolio: https://joewa6.github.io/
+
 LinkedIn: https://www.linkedin.com/in/joseph--wallace/
-Contact: joseph.wallace@iit.it
+
+Contact: joewallace2995@gmail or joseph.wallace@iit.it (for academic work)
