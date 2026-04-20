@@ -1,9 +1,20 @@
 # Joe Wallace
 
-Computational chemist building reproducible ligand-screening and molecular analysis workflows for drug discovery.
+Computational scientist working on molecular and interfacial modelling, scientific Python, and experiment-linked data analysis.
 
-- Docking and rescoring workflows
-- Cheminformatics and benchmark analysis
-- Reproducible Python tooling for hit triage
+I build reproducible computational workflows for physically grounded modelling, sparse-data analysis, and interpretable scientific decision support across chemistry, materials, and molecular systems.
+
+## Focus
+
+- Molecular and interfacial modelling
+- Scientific Python and reproducible workflows
+- Sparse and multivariate scientific data analysis
+- Mechanism-aware modelling linked to experiment
+
+## Current work
+
+Postdoctoral researcher at the Istituto Italiano di Tecnologia, working across molecular simulation, data analysis, and experiment-linked scientific computing.
 
 Portfolio: https://joewa6.github.io/
+LinkedIn: https://www.linkedin.com/in/joseph--wallace/
+Contact: joseph.wallace@iit.it
